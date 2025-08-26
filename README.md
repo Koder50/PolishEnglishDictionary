@@ -2,8 +2,8 @@
 
 Simple PolishEnglishDictonary or reverse with testing
 ## Technologies
--Java
--JUnit
+- Java
+- JUnit
 
 ## How to use
 I am using IntelliJ Idea:
