@@ -1,9 +1,10 @@
-# Project
+# PolishEnglishDictonary
 
-Simple PolishEnglishDictonary or EnglishPolishDictionary
-
+Simple PolishEnglishDictonary or reverse with testing
 ## Technologies
-Java with testing
+-Java
+-JUnit
+
 ## How to use
 I am using IntelliJ Idea:
 1. Download Zip File from github(on main page of repository find green button 'Code', click it and then find and click 'Download Zip')
